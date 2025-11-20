@@ -8,3 +8,11 @@ kemudian push tersebut
 - git commit -m "update asset" (isi nama keterangan push tersebut)
 - git push origin main
 Selesai...
+
+#update project / Cara pull (update file terbaru)
+1. git pull origin main
+2. edit file di lokal
+3. git add .
+4. git commit -m "pesan update"
+5. git push origin main
+6. selesai....
